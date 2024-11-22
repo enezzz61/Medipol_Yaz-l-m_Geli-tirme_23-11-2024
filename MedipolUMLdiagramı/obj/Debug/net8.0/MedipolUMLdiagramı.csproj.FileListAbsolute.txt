@@ -1,0 +1,28 @@
+C:\Users\Enes\source\repos\MedipolUMLdiagramı\MedipolUMLdiagramı\bin\Debug\net8.0\MedipolUMLdiagramı.exe
+C:\Users\Enes\source\repos\MedipolUMLdiagramı\MedipolUMLdiagramı\bin\Debug\net8.0\MedipolUMLdiagramı.deps.json
+C:\Users\Enes\source\repos\MedipolUMLdiagramı\MedipolUMLdiagramı\bin\Debug\net8.0\MedipolUMLdiagramı.runtimeconfig.json
+C:\Users\Enes\source\repos\MedipolUMLdiagramı\MedipolUMLdiagramı\bin\Debug\net8.0\MedipolUMLdiagramı.dll
+C:\Users\Enes\source\repos\MedipolUMLdiagramı\MedipolUMLdiagramı\bin\Debug\net8.0\MedipolUMLdiagramı.pdb
+C:\Users\Enes\source\repos\MedipolUMLdiagramı\MedipolUMLdiagramı\obj\Debug\net8.0\MedipolUMLdiagramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\source\repos\MedipolUMLdiagramı\MedipolUMLdiagramı\obj\Debug\net8.0\MedipolUMLdiagramı.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\MedipolUMLdiagramı\MedipolUMLdiagramı\obj\Debug\net8.0\MedipolUMLdiagramı.AssemblyInfo.cs
+C:\Users\Enes\source\repos\MedipolUMLdiagramı\MedipolUMLdiagramı\obj\Debug\net8.0\MedipolUMLdiagramı.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\MedipolUMLdiagramı\MedipolUMLdiagramı\obj\Debug\net8.0\MedipolUMLdiagramı.dll
+C:\Users\Enes\source\repos\MedipolUMLdiagramı\MedipolUMLdiagramı\obj\Debug\net8.0\refint\MedipolUMLdiagramı.dll
+C:\Users\Enes\source\repos\MedipolUMLdiagramı\MedipolUMLdiagramı\obj\Debug\net8.0\MedipolUMLdiagramı.pdb
+C:\Users\Enes\source\repos\MedipolUMLdiagramı\MedipolUMLdiagramı\obj\Debug\net8.0\MedipolUMLdiagramı.genruntimeconfig.cache
+C:\Users\Enes\source\repos\MedipolUMLdiagramı\MedipolUMLdiagramı\obj\Debug\net8.0\ref\MedipolUMLdiagramı.dll
+C:\Users\Enes\Documents\Yeni klasör\MedipolUMLdiagramı\MedipolUMLdiagramı\bin\Debug\net8.0\MedipolUMLdiagramı.exe
+C:\Users\Enes\Documents\Yeni klasör\MedipolUMLdiagramı\MedipolUMLdiagramı\bin\Debug\net8.0\MedipolUMLdiagramı.deps.json
+C:\Users\Enes\Documents\Yeni klasör\MedipolUMLdiagramı\MedipolUMLdiagramı\bin\Debug\net8.0\MedipolUMLdiagramı.runtimeconfig.json
+C:\Users\Enes\Documents\Yeni klasör\MedipolUMLdiagramı\MedipolUMLdiagramı\bin\Debug\net8.0\MedipolUMLdiagramı.dll
+C:\Users\Enes\Documents\Yeni klasör\MedipolUMLdiagramı\MedipolUMLdiagramı\bin\Debug\net8.0\MedipolUMLdiagramı.pdb
+C:\Users\Enes\Documents\Yeni klasör\MedipolUMLdiagramı\MedipolUMLdiagramı\obj\Debug\net8.0\MedipolUMLdiagramı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\Documents\Yeni klasör\MedipolUMLdiagramı\MedipolUMLdiagramı\obj\Debug\net8.0\MedipolUMLdiagramı.AssemblyInfoInputs.cache
+C:\Users\Enes\Documents\Yeni klasör\MedipolUMLdiagramı\MedipolUMLdiagramı\obj\Debug\net8.0\MedipolUMLdiagramı.AssemblyInfo.cs
+C:\Users\Enes\Documents\Yeni klasör\MedipolUMLdiagramı\MedipolUMLdiagramı\obj\Debug\net8.0\MedipolUMLdiagramı.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Documents\Yeni klasör\MedipolUMLdiagramı\MedipolUMLdiagramı\obj\Debug\net8.0\MedipolUMLdiagramı.dll
+C:\Users\Enes\Documents\Yeni klasör\MedipolUMLdiagramı\MedipolUMLdiagramı\obj\Debug\net8.0\refint\MedipolUMLdiagramı.dll
+C:\Users\Enes\Documents\Yeni klasör\MedipolUMLdiagramı\MedipolUMLdiagramı\obj\Debug\net8.0\MedipolUMLdiagramı.pdb
+C:\Users\Enes\Documents\Yeni klasör\MedipolUMLdiagramı\MedipolUMLdiagramı\obj\Debug\net8.0\MedipolUMLdiagramı.genruntimeconfig.cache
+C:\Users\Enes\Documents\Yeni klasör\MedipolUMLdiagramı\MedipolUMLdiagramı\obj\Debug\net8.0\ref\MedipolUMLdiagramı.dll
